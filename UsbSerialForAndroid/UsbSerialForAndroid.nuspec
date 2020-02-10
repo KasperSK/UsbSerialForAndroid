@@ -4,8 +4,8 @@
     <id>Kamstrup.UsbSerialForAndroid</id>
 	
     <version>$version$</version>
-    <description>$description$</description>
-    <authors>$author$</authors>
+    <description>Android usb serialport interface</description>
+    <authors>FOSS</authors>
     <title>$title$</title>
     <owners>$author$</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
