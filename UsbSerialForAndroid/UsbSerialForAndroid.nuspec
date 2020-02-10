@@ -1,0 +1,22 @@
+﻿<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>Kamstrup.UsbSerialForAndroid</id>
+	
+    <version>$version$</version>
+    <description>$description$</description>
+    <authors>$author$</authors>
+    <title>$title$</title>
+    <owners>$author$</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+  
+    <releaseNotes>Usb Serialport for android</releaseNotes>
+	
+    <copyright>Copyright 2018</copyright>
+    
+    <tags>USB ANDROID</tags>
+	
+    <summary>To support USB OTG as serialport interfaces</summary>
+	
+  </metadata>
+</package>

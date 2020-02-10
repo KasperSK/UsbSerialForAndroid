@@ -73,6 +73,7 @@
   <ItemGroup>
     <None Include="README.md" />
     <None Include="Resources\AboutResources.txt" />
+    <None Include="UsbSerialForAndroid.nuspec" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\Values\Strings.xml" />
