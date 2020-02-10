@@ -7,7 +7,6 @@
     <description>Android usb serialport interface</description>
     <authors>FOSS</authors>
     <title>$title$</title>
-    <owners>$author$</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
   
     <releaseNotes>Usb Serialport for android</releaseNotes>
