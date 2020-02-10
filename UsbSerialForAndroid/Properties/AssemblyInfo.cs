@@ -7,9 +7,9 @@ using Android.App;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("UsbSerialForAndroid")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Usb  serialinterface for android")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("FOSS")]
 [assembly: AssemblyProduct("UsbSerialForAndroid")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
